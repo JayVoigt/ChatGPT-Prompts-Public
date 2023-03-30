@@ -13,3 +13,7 @@ Within each group, `prompt.md` contains the initial prompt. Additional files may
 - `sample-x.md`: Sample conversation, where `x` is a general description
 
 Groups for prompts/conversations which produce code may also include a `code` directory, where raw or modified output from ChatGPT is given. Some residual files from code execution may be present.
+
+---
+
+Sample conversations were created using a TamperMonkey script: [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter)
